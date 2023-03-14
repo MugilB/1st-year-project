@@ -1,0 +1,18 @@
+.all{
+    background-color: white;
+    padding: 30px;
+    margin-left: 850px;
+    width: 400px;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+}
